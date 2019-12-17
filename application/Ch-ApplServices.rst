@@ -16,5 +16,5 @@ An SDK is provided (the Application Functions SDK) to help build Application Ser
    Ch-ApplicationServices
    Ch-ApplicationFunctionsSDK
    Ch-AppServiceConfigurable
-
+//Hasn't the Application Services replaced  Export Services yet in Fuji?  
 **Note** Application Services will replace Export Services in a future EdgeX release.
